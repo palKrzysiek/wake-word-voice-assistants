@@ -56,7 +56,7 @@ voice_assistant:
   speaker: echo_speaker
   noise_suppression_level: 2
   auto_gain: 31dBFS
-  volume_multiplier: 2.0
+  volume_multiplier: 3.0
   vad_threshold: 3
   on_listening:
     - light.turn_on:
